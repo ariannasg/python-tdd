@@ -1,6 +1,14 @@
 #!usr/bin/env python3
 
 
+def setup_module(module):
+    print('Setup module')
+
+
+def teardown_module(module):
+    print('Teardown module')
+
+
 def setup_function(function):
     if function == test1:
         print('Setting up test1!')
