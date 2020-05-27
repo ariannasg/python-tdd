@@ -1,5 +1,5 @@
 #!usr/bin/env python3
-from pytest import raises
+import pytest
 
 
 def raise_exception():
@@ -7,5 +7,11 @@ def raise_exception():
 
 
 def test_1():
-    with raises(ValueError):
+    with pytest.raises(ValueError):
+        raise_exception()
+
+
+@pytest.mark.skip
+def test_2():
+    with pytest.raises(ValueError):
         raise_exception()
