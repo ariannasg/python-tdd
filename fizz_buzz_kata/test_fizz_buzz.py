@@ -48,7 +48,6 @@ def test_returns_fizz_buzz_with_15_passed_in():
     check_fizz_buzz(15, "fizz_buzz")
 
 
-
 fizz_buzz_test_data = [
     (1, "1"),
     (2, "2"),
