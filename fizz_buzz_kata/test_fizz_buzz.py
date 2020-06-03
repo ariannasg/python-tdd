@@ -1,4 +1,5 @@
 #!usr/bin/env python3
+import pytest
 
 
 def fizz_buzz(value):
@@ -45,3 +46,21 @@ def test_returns_buzz_with_10_passed_in():
 
 def test_returns_fizz_buzz_with_15_passed_in():
     check_fizz_buzz(15, "fizz_buzz")
+
+
+
+fizz_buzz_test_data = [
+    (1, "1"),
+    (2, "2"),
+    (3, "Fizz"),
+    (5, "Buzz"),
+    (6, "Fizz"),
+    (10, "Buzz"),
+    (15, "fizz_buzz"),
+]
+
+
+@pytest.mark.parametrize("number,expected_output", fizz_buzz_test_data)
+def test_multiplication(number, expected_output):
+    result = fizz_buzz(number)
+    assert result == expected_output
