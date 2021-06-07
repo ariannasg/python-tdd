@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://ariannasg.github.io/python-tdd",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #915427572",
+  "buildUrl" : "https://github.com/ariannasg/python-tdd/actions/runs/915427572",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://ariannasg.github.io/python-tdd/1/"
+} ]

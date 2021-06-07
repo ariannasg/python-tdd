@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "aa8433b98e781b57e35c8e3b64375c85",
+    "name" : "pytest_overview",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 24
+    }
+  }, {
+    "uid" : "9989a469baa6213af3942bce00b6f4bf",
+    "name" : "fizz_buzz_kata",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  } ]
+}

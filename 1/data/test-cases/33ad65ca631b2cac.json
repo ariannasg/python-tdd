@@ -1,0 +1,59 @@
+{
+  "uid" : "33ad65ca631b2cac",
+  "name" : "test_multiplication[6-Fizz]",
+  "fullName" : "fizz_buzz_kata.test_fizz_buzz#test_multiplication",
+  "historyId" : "4e45067196eb2016424a634d7e1a496a",
+  "time" : {
+    "start" : 1623080865637,
+    "stop" : 1623080865637,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "fizz_buzz_kata"
+  }, {
+    "name" : "suite",
+    "value" : "test_fizz_buzz"
+  }, {
+    "name" : "host",
+    "value" : "fv-az275-66"
+  }, {
+    "name" : "thread",
+    "value" : "2993-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "fizz_buzz_kata.test_fizz_buzz"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_output",
+    "value" : "'Fizz'"
+  }, {
+    "name" : "number",
+    "value" : "6"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33ad65ca631b2cac.json",
+  "parameterValues" : [ "'Fizz'", "6" ]
+}
