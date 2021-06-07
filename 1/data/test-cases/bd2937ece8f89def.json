@@ -1,0 +1,107 @@
+{
+  "uid" : "bd2937ece8f89def",
+  "name" : "test_numbers[1]",
+  "fullName" : "pytest_overview.test_fixtures_params#test_numbers",
+  "historyId" : "414062f1719c90c907067b6b73e6b037",
+  "time" : {
+    "start" : 1623081193020,
+    "stop" : 1623081193021,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_numbers",
+    "time" : {
+      "start" : 1623081193020,
+      "stop" : 1623081193020,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ea265a1ceb116bb0",
+      "name" : "stdout",
+      "source" : "ea265a1ceb116bb0.txt",
+      "type" : "text/plain",
+      "size" : 18
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pytest_overview"
+  }, {
+    "name" : "suite",
+    "value" : "test_fixtures_params"
+  }, {
+    "name" : "host",
+    "value" : "fv-az173-757"
+  }, {
+    "name" : "thread",
+    "value" : "2847-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pytest_overview.test_fixtures_params"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "setup_numbers",
+    "value" : "1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "f0f1b7382f808ca9",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/1//#testresult/f0f1b7382f808ca9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623080865321,
+          "stop" : 1623080865322,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "bd2937ece8f89def.json",
+  "parameterValues" : [ "1" ]
+}

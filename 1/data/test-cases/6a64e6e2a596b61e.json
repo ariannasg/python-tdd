@@ -1,0 +1,73 @@
+{
+  "uid" : "6a64e6e2a596b61e",
+  "name" : "test_1",
+  "fullName" : "pytest_overview.test_exceptions#test_1",
+  "historyId" : "e751bc9a4e3a557e0bebdac5172b4350",
+  "time" : {
+    "start" : 1623081193013,
+    "stop" : 1623081193013,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pytest_overview"
+  }, {
+    "name" : "suite",
+    "value" : "test_exceptions"
+  }, {
+    "name" : "host",
+    "value" : "fv-az173-757"
+  }, {
+    "name" : "thread",
+    "value" : "2847-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pytest_overview.test_exceptions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "ffa5ce5479c0ee1c",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/1//#testresult/ffa5ce5479c0ee1c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623080865313,
+          "stop" : 1623080865313,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6a64e6e2a596b61e.json",
+  "parameterValues" : [ ]
+}

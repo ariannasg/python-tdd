@@ -1,0 +1,79 @@
+{
+  "uid" : "1139f869f12518aa",
+  "name" : "test_multiplication[3-Fizz]",
+  "fullName" : "fizz_buzz_kata.test_fizz_buzz#test_multiplication",
+  "historyId" : "1aa8721aae6ac7d3c5ddc1fc2a8600fe",
+  "time" : {
+    "start" : 1623081193286,
+    "stop" : 1623081193286,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "fizz_buzz_kata"
+  }, {
+    "name" : "suite",
+    "value" : "test_fizz_buzz"
+  }, {
+    "name" : "host",
+    "value" : "fv-az173-757"
+  }, {
+    "name" : "thread",
+    "value" : "2849-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "fizz_buzz_kata.test_fizz_buzz"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_output",
+    "value" : "'Fizz'"
+  }, {
+    "name" : "number",
+    "value" : "3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4313a15099bcd1be",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/1//#testresult/4313a15099bcd1be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623080865632,
+          "stop" : 1623080865632,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1139f869f12518aa.json",
+  "parameterValues" : [ "'Fizz'", "3" ]
+}

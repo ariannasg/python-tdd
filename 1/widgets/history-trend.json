@@ -10,4 +10,16 @@
     "unknown" : 0,
     "total" : 31
   }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://ariannasg.github.io/python-tdd/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 30,
+    "unknown" : 0,
+    "total" : 31
+  }
 } ]
