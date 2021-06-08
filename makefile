@@ -13,4 +13,4 @@ test:
 
 report:
 	make test
-	allure generate ${overview_alluredir} -o allure-reports --clean
+	allure generate ${overview_alluredir} -o allure-report --clean

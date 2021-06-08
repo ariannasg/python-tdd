@@ -2,4 +2,4 @@
 *.pyc
 venv
 allure-results
-allure-reports
+allure-report
