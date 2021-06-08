@@ -1,0 +1,152 @@
+{
+  "uid" : "cd6d4730796c4a2b",
+  "name" : "test_fixture_2",
+  "fullName" : "pytest_overview.test_fixtures_teardown#test_fixture_2",
+  "historyId" : "a762244e8b1e845243f7dda0c7621921",
+  "time" : {
+    "start" : 1623138024232,
+    "stop" : 1623138024232,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup2",
+    "time" : {
+      "start" : 1623138024231,
+      "stop" : 1623138024231,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5262cca0f9fbd8ca",
+      "name" : "stdout",
+      "source" : "5262cca0f9fbd8ca.txt",
+      "type" : "text/plain",
+      "size" : 89
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "setup2::teardown_b",
+    "time" : {
+      "start" : 1623138024232,
+      "stop" : 1623138024232,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setup2::teardown_a",
+    "time" : {
+      "start" : 1623138024232,
+      "stop" : 1623138024232,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pytest_overview"
+  }, {
+    "name" : "suite",
+    "value" : "test_fixtures_teardown"
+  }, {
+    "name" : "host",
+    "value" : "fv-az199-318"
+  }, {
+    "name" : "thread",
+    "value" : "3236-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pytest_overview.test_fixtures_teardown"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "fb44c424076b807a",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/2//#testresult/fb44c424076b807a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623081389397,
+          "stop" : 1623081389398,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "a92382921ef05dcb",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/1//#testresult/a92382921ef05dcb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623081193034,
+          "stop" : 1623081193034,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d6999a99113e498b",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/1//#testresult/d6999a99113e498b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623080865338,
+          "stop" : 1623080865338,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "cd6d4730796c4a2b.json",
+  "parameterValues" : [ ]
+}

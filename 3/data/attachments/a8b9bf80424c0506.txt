@@ -1,0 +1,4 @@
+Setting up test2 in TestClass!
+Executing test2 in TestClass
+Tearing down test2 in TestClass!
+Teardown TestClass

@@ -1,0 +1,4 @@
+Setting up test2!
+Executing test2
+Tearing down test2!
+Teardown module

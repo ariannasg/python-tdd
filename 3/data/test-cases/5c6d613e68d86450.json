@@ -1,0 +1,170 @@
+{
+  "uid" : "5c6d613e68d86450",
+  "name" : "test1",
+  "fullName" : "pytest_overview.test_setup_class.TestClass#test1",
+  "historyId" : "61d06e392eaf8a527b63ea2ee4d2fffd",
+  "time" : {
+    "start" : 1623138024258,
+    "stop" : 1623138024258,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestClass",
+    "time" : {
+      "start" : 1623138024257,
+      "stop" : 1623138024257,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "xunit_setup_class_fixture_TestClass",
+    "time" : {
+      "start" : 1623138024257,
+      "stop" : 1623138024257,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2a9d643caeca8091",
+      "name" : "stdout",
+      "source" : "2a9d643caeca8091.txt",
+      "type" : "text/plain",
+      "size" : 109
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_method_fixture_TestClass::0",
+    "time" : {
+      "start" : 1623138024258,
+      "stop" : 1623138024258,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "xunit_setup_class_fixture_TestClass::0",
+    "time" : {
+      "start" : 1623138024261,
+      "stop" : 1623138024261,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pytest_overview"
+  }, {
+    "name" : "suite",
+    "value" : "test_setup_class"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "fv-az199-318"
+  }, {
+    "name" : "thread",
+    "value" : "3236-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pytest_overview.test_setup_class"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "2abc4a8ef9100c0a",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/2//#testresult/2abc4a8ef9100c0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623081389424,
+          "stop" : 1623081389424,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "3ea9d34774eafdea",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/1//#testresult/3ea9d34774eafdea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623081193054,
+          "stop" : 1623081193054,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "5f53e4876ac2734f",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/1//#testresult/5f53e4876ac2734f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623080865360,
+          "stop" : 1623080865360,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5c6d613e68d86450.json",
+  "parameterValues" : [ ]
+}

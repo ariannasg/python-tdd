@@ -1,0 +1,4 @@
+Fixture setup3
+Fixture setup
+Fixture setup2
+Executing test_fixture_1
