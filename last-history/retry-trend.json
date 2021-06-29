@@ -15,6 +15,14 @@
     "retry" : 0
   }
 }, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://ariannasg.github.io/python-tdd/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 31,
+    "retry" : 0
+  }
+}, {
   "buildOrder" : 2,
   "reportUrl" : "https://ariannasg.github.io/python-tdd/2/",
   "reportName" : "Allure Report with history",
