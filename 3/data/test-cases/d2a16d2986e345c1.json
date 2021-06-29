@@ -1,0 +1,164 @@
+{
+  "uid" : "d2a16d2986e345c1",
+  "name" : "test_fixture_1",
+  "fullName" : "pytest_overview.test_fixtures#test_fixture_1",
+  "historyId" : "b8c0c5b914deb2eefbce895af5798d47",
+  "time" : {
+    "start" : 1624979929077,
+    "stop" : 1624979929077,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1624979929077,
+      "stop" : 1624979929077,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setup3",
+    "time" : {
+      "start" : 1624979929077,
+      "stop" : 1624979929077,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setup2",
+    "time" : {
+      "start" : 1624979929077,
+      "stop" : 1624979929077,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bcc43e98234b1e2b",
+      "name" : "stdout",
+      "source" : "bcc43e98234b1e2b.txt",
+      "type" : "text/plain",
+      "size" : 69
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('setup', 'setup2')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "pytest_overview"
+  }, {
+    "name" : "suite",
+    "value" : "test_fixtures"
+  }, {
+    "name" : "host",
+    "value" : "fv-az182-470"
+  }, {
+    "name" : "thread",
+    "value" : "3025-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pytest_overview.test_fixtures"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "c7787433043a19d",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/3//#testresult/c7787433043a19d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623138024208,
+          "stop" : 1623138024208,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "cc7731dfd3af0e08",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/2//#testresult/cc7731dfd3af0e08",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623081389373,
+          "stop" : 1623081389373,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c1f86bc4fafef52a",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/1//#testresult/c1f86bc4fafef52a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623081193016,
+          "stop" : 1623081193016,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "6911fc71d527ef0a",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/1//#testresult/6911fc71d527ef0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623080865316,
+          "stop" : 1623080865317,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.usefixtures('setup', 'setup2')" ]
+  },
+  "source" : "d2a16d2986e345c1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,4 @@
+
+Fixture setup 1
+Executing test_fixture_teardown_1
+Fixture teardown 1

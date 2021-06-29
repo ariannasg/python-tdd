@@ -1,0 +1,109 @@
+{
+  "uid" : "e9015241afb514",
+  "name" : "test_multiplication[10-5-5]",
+  "fullName" : "pytest_overview.test_fixtures_params#test_multiplication",
+  "historyId" : "6ef03c11068d445422eb742dd12ee392",
+  "time" : {
+    "start" : 1624979929092,
+    "stop" : 1624979929092,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "pytest_overview"
+  }, {
+    "name" : "suite",
+    "value" : "test_fixtures_params"
+  }, {
+    "name" : "host",
+    "value" : "fv-az182-470"
+  }, {
+    "name" : "thread",
+    "value" : "3025-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "pytest_overview.test_fixtures_params"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "10"
+  }, {
+    "name" : "b",
+    "value" : "5"
+  }, {
+    "name" : "expected",
+    "value" : "5"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "fb686679e9190230",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/3//#testresult/fb686679e9190230",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623138024223,
+          "stop" : 1623138024224,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "1b2171279507e18f",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/2//#testresult/1b2171279507e18f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623081389389,
+          "stop" : 1623081389389,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "176bde776c735c1f",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/1//#testresult/176bde776c735c1f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623081193028,
+          "stop" : 1623081193028,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "9f00440e46bd3d0",
+        "reportUrl" : "https://ariannasg.github.io/python-tdd/1//#testresult/9f00440e46bd3d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623080865330,
+          "stop" : 1623080865330,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e9015241afb514.json",
+  "parameterValues" : [ "10", "5", "5" ]
+}

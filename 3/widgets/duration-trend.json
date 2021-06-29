@@ -3,6 +3,13 @@
   "reportUrl" : "https://ariannasg.github.io/python-tdd/3/",
   "reportName" : "Allure Report with history",
   "data" : {
+    "duration" : 348
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://ariannasg.github.io/python-tdd/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
     "duration" : 352
   }
 }, {
